@@ -27,6 +27,6 @@ return a;
 }
 
 function preserveDecimal(n) {
-  a = parseFloat(n);
+var  a = parseFloat(n);
   return a;
 }
